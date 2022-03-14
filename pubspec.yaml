@@ -81,7 +81,7 @@ flutter:
     - assets/images/bgimage.jpg
     - assets/images/water.png
     - assets/images/dash.png
-    - assets/images/hero-dash.png
+
     - assets/images/water.png
     - assets/images/relax-dash.png
     - assets/images/numeric-puzzle.png
