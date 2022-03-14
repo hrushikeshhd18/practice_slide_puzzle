@@ -4,6 +4,8 @@ A slide puzzle game created with flutter for the flutter hack https://flutter.de
 
 
 | Numeric | Image          | Dark Mode |
+
+//
 |--------|----------------|----|
 
 
