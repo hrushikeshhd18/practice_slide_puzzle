@@ -1,5 +1,5 @@
 # Samudra Manthan
-https://hrushikeshhd18.github.io/practice_slide_puzzle/
+
 
 A slide puzzle game created with flutter for the flutter hack https://flutter.dev/events/puzzle-hack
 
